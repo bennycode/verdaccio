@@ -1,5 +1,18 @@
 # verdaccio
 
+## 9.0.0-next-9.35
+
+### Patch Changes
+
+- @verdaccio/server@9.0.0-next-9.35
+  - @verdaccio/cli@9.0.0-next-9.35
+  - @verdaccio/config@9.0.0-next-9.35
+  - verdaccio-audit@14.0.0-next-9.35
+  - verdaccio-htpasswd@14.0.0-next-9.35
+  - @verdaccio/package-filter@14.0.0-next-9.59
+  - @verdaccio/node-api@9.0.0-next-9.35
+  - @verdaccio/ui-theme@9.0.0-next-9.35
+
 ## 9.0.0-next-9.34
 
 ### Patch Changes
